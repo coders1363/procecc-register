@@ -1,5 +1,9 @@
 <?php
 
+//.. مکان بعد فرم پویا - جایگاه : فرم اصلی 
+
+//// تنظیم نام کاربری بر اساس شرایط مختلف
+
 $username  = @@act_txt_National_Code;
 $username  = @@leg_txt_Rep_national;
 $password  = @@act_txt_Mobile_number;
